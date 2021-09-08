@@ -2,6 +2,7 @@
 
 [![Mrucznik's github stats](https://github-readme-stats.vercel.app/api?username=Mrucznik&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mrucznik?tab=repositories) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrucznik&count_private=true&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/Mrucznik?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrucznik&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Mrucznik/Mrucznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
