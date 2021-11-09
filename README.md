@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:poland: Jeśli uznasz moją pracę za wartościową, możesz zostawić tip'a w:  
+:poland: Jeśli uznasz moją pracę za wartościową, możesz sypnąć grosza Mrucznikowi w:  
 :gb: If you find my work useful, you can tip me in:
 - Monero: 42mBTdPtJfcc2pQUEZnAPJf3CtLWuYLomULK8yasKfoji8RbQ9FS5PSDzsBUheTGAiXgtbskbi9iq4rqZkkhdBBZ4CRof7t
 - LTC: LQJA5CqhaZv4EwMTDdeqBKV7tW2kgjoUds
